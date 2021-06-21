@@ -29,3 +29,5 @@ python3 manage.py createsuperuser --email admin@test.com --username admin
 python manage.py runserver 0.0.0.0:8080
 ```
 
+## TODO
+- Build Test cases
