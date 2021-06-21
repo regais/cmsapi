@@ -1,4 +1,4 @@
-# BlogPostAPI Project
+# CMS API Project
 
 ## Requirements
 
