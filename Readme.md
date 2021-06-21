@@ -18,6 +18,7 @@ pip3 install djangorestframework
 ## Initialize project
 
 ```
+python3 manage.py makemigrations blogapi
 python3 manage.py migrate
 python3 manage.py createsuperuser --email admin@test.com --username admin
 ```
